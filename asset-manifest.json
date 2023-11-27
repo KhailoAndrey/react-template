@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KhailoAndrey/react-template/static/css/main.f855e6bc.css",
-    "main.js": "/KhailoAndrey/react-template/static/js/main.22ce1bbd.js",
-    "static/media/logo.svg": "/KhailoAndrey/react-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/KhailoAndrey/react-template/index.html",
-    "main.f855e6bc.css.map": "/KhailoAndrey/react-template/static/css/main.f855e6bc.css.map",
-    "main.22ce1bbd.js.map": "/KhailoAndrey/react-template/static/js/main.22ce1bbd.js.map"
+    "main.css": "/react-template/static/css/main.f855e6bc.css",
+    "main.js": "/react-template/static/js/main.d7801fe0.js",
+    "static/media/logo.svg": "/react-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-template/index.html",
+    "main.f855e6bc.css.map": "/react-template/static/css/main.f855e6bc.css.map",
+    "main.d7801fe0.js.map": "/react-template/static/js/main.d7801fe0.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.22ce1bbd.js"
+    "static/js/main.d7801fe0.js"
   ]
 }
